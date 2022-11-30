@@ -1,7 +1,7 @@
 from tkinter import *
 
 app=Tk()
-app.geometry("400x400")
+app.geometry("350x450")
 app.title("calculator by nikki")
 
 expression = ""
